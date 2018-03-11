@@ -1,0 +1,4 @@
+name: AngelEssentials
+version:
+main: com.vergilprime.angelessentials.AngelEssentials
+depend: [Vault]
